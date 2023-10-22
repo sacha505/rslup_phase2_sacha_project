@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\rslup_phase2_sacha_project.props" />
+</Project>
